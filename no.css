@@ -1,0 +1,9 @@
+h2{
+    font-size: 75px;
+    margin-bottom: 30px;
+    text-align: center;
+    padding-top: 20%;
+}
+h2 span{
+    color: tomato;
+}
